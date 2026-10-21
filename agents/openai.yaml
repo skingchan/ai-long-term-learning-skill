@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Long-Term Learning"
+  short_description: "Plan, teach, assess, and resume long-term learning"
+  default_prompt: "Use $ai-long-term-learning to diagnose my baseline, design a staged curriculum, and teach interactively one lesson at a time."
